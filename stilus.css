@@ -1,6 +1,7 @@
 body{
     background-image: url(kepek/hatterem3.jpg);
     margin: 0;
+    padding: 0;
 }
 
 .wrapper{
@@ -27,6 +28,7 @@ p{
 img{
     margin: 10px;
     border: 3px dotted rgb(196, 196, 196);
+    padding: 2px;
 }
 
 .bkep{
