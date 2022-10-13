@@ -1,4 +1,42 @@
 body{
-    background-color: black;
-    color: cyan;
+    background-image: url(kepek/hatterem3.jpg);
+    margin: 0;
+}
+
+.wrapper{
+    background-color: gray;
+    color: white;
+    margin: 10px auto auto auto;
+    width: 80%;
+    max-width: 800px;
+    padding: 20px;
+    font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+}
+
+h1{
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: 3px dotted rgb(196, 196, 196);
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    margin: 10px;
+    border: 3px dotted rgb(196, 196, 196);
+}
+
+.bkep{
+    float: left;
+}
+
+.jkep{
+    float: right;
+}
+
+.torol{
+    clear: both;
 }
